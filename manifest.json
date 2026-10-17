@@ -33,13 +33,5 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ],
-  "screenshots": [
-    {
-      "src": "https://tp9sach-ops.github.io/cong9sach-app/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "form_factor": "narrow"
-    }
   ]
 }
